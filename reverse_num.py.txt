@@ -1,0 +1,7 @@
+number = int(input("Enter your number: "))
+
+number_rev = int(str(number)[::-1])
+
+print("reversed number is",number_rev)
+
+#PRN : 202501080224
